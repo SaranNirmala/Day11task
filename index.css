@@ -1,0 +1,45 @@
+.tp1{
+    background-color: rgb(238, 238, 241);
+    border-bottom: dotted;
+    padding: 1px; margin: 1px; border-color:lightgrey;
+    text-align: justify;
+}
+.tp1:hover{
+    background-color:rgba(190, 189, 189, 0.849);
+}
+#para1{
+    margin: 10px;
+    padding: 5px;
+    text-align: justify;
+}
+h3{  margin-left: 15px;
+    font-weight: lighter;
+    font-family:sans-serif;
+}
+.tp{
+    border: 1px;
+    background-color: rgba(255, 196, 0, 0.973); 
+    width:120%;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#para2{
+    margin-left: 15px;
+    padding-left: 5px;
+    text-align: justify;
+}
+#list{
+    text-align: justify;
+    font-size:medium;
+    
+}
+.btn1{
+    padding: 0.01rem;
+    margin: 0.01rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.fa-plus-square, .fa-minus-square{
+    font-size: 9px !important;
+
+}
